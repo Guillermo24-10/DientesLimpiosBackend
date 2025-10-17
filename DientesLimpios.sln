@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pruebas", "Pruebas", "{1320
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DientesLimpios.Domain", "DientesLimpios.Domain\DientesLimpios.Domain.csproj", "{060DD0F8-C629-4B5B-981C-C8C2C4545E47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DientesLimpio.prueba", "DientesLimpio.prueba\DientesLimpio.prueba.csproj", "{9C5A0E66-9C41-45E8-B349-6DC1C721365A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +25,17 @@ Global
 		{060DD0F8-C629-4B5B-981C-C8C2C4545E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{060DD0F8-C629-4B5B-981C-C8C2C4545E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{060DD0F8-C629-4B5B-981C-C8C2C4545E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C5A0E66-9C41-45E8-B349-6DC1C721365A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5A0E66-9C41-45E8-B349-6DC1C721365A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5A0E66-9C41-45E8-B349-6DC1C721365A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5A0E66-9C41-45E8-B349-6DC1C721365A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{060DD0F8-C629-4B5B-981C-C8C2C4545E47} = {D53A8C66-50DA-4045-BE58-9A30E127AA23}
+		{9C5A0E66-9C41-45E8-B349-6DC1C721365A} = {1320DBAC-537D-4EC5-9030-2700384B82E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {904C56FB-9C1B-406B-A7D9-BDF4ECF3BCFE}
