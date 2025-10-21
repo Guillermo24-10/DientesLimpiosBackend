@@ -1,4 +1,6 @@
-﻿using MediatR;
+﻿
+
+using MediatR;
 
 namespace DientesLimpios.Application.UseCases.Consultorios.Commands.CrearConsultorio
 {
